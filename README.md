@@ -21,4 +21,5 @@ This setup improves availability, scalability, and security.
 - Outbound internet access through the NAT Gateway
 
 **Diagram:**  
-![image.png](attachment:df57e481-e291-473c-bc33-2f548cf9e24e:image.png)
+<img width="448" height="349" alt="image" src="https://github.com/user-attachments/assets/bb2fa980-b534-499e-84c6-126fcfe57d8e" />
+
