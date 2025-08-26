@@ -91,6 +91,7 @@ This setup improves availability, scalability, and security.
 
 - **IP verification against AWS console:**
 <img width="128" height="38" alt="image" src="https://github.com/user-attachments/assets/37f720ac-9b7f-442e-9347-9bd2b3790219" />
+<img width="328" height="30" alt="image" src="https://github.com/user-attachments/assets/da4fd7fb-59d3-4a57-92ad-61191e3234d5" />
 
 ### Application Setup
 - **index.html file creation:**
