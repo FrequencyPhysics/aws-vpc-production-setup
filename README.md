@@ -58,6 +58,7 @@ This setup improves availability, scalability, and security.
 ## Screenshots
 - **VPC creation:**
 <img width="706" height="257" alt="image" src="https://github.com/user-attachments/assets/52d464f7-ea97-46b1-9e32-a38d87bfd1a6" />
+
 - **Auto Scaling group:**
 <img width="706" height="117" alt="image" src="https://github.com/user-attachments/assets/aa541579-7fe1-413b-8adb-03d0e90326d6" />
 
