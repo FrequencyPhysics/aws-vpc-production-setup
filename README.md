@@ -62,3 +62,8 @@ This setup improves availability, scalability, and security.
 - **Auto Scaling group:**
 <img width="706" height="117" alt="image" src="https://github.com/user-attachments/assets/aa541579-7fe1-413b-8adb-03d0e90326d6" />
 
+-**EC2 Instances**
+<img width="708" height="80" alt="image" src="https://github.com/user-attachments/assets/e9daac41-80b2-42c5-ae08-2245d7a69931" />
+<img width="313" height="130" alt="image" src="https://github.com/user-attachments/assets/7334f5f8-f0fb-4540-95d2-b0d38934e182" />
+
+
